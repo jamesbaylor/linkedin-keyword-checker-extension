@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Linked-in Keywords Checker",
+  "version": "1.0",
+  "description": "A google chrome extensions that helps users to check the existence of their required keyword inside a Linkedin job description.",
+  "icons": {
+    "16": "images/icon-16.png",
+    "32": "images/icon-32.png",
+    "64": "images/icon-64.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon-16.png",
+      "32": "images/icon-32.png",
+      "64": "images/icon-64.png"
+    }
+  },
+  "permissions": ["activeTab", "scripting", "storage"]
+}

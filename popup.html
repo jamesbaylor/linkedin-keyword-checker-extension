@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="popup.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <script src="popup.js"></script>
+  </head>
+  <body>
+    <div calss="key-word-check">
+      <h1>Linkedin Key word checker</h1>
+      <h2>Key words</h2>
+      <ul id="key-words"></ul>
+      <form id="frm-keywords">
+        <input
+          type="text"
+          id="new-key-word"
+          placeholder="type your key word ... "
+          autocomplete="off"
+          suggestions="off"
+        />
+        <button type="submit" id="add-key-word">Add</button>
+      </form>
+      <button id="btnCheck">Check key words</button>
+      <p class="message"></p>
+    </div>
+  </body>
+</html>
