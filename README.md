@@ -33,7 +33,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Behnam Aghaali
 
 - [linkedin.com/in/james-bay](https://www.linkedin.com/in/james-bay/)
-- [https://github.com/jamesbaylor](https://www.https://github.com/jamesbaylor/)
+- [https://github.com/jamesbaylor](https://github.com/jamesbaylor/)
 - [jamesbay829@gmail.com](mailto:jamesbay829@gmail.com)
 
 ## Support
